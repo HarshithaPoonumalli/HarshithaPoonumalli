@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.pixabay.com/photo/2015/10/29/14/39/web-1012468_1280.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Harshitha Poonumalli</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshithapoonumalli&label=Profile%20views&color=0e75b6&style=flat" alt="harshithapoonumalli" /> </p>
